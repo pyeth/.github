@@ -1,6 +1,5 @@
-# PYETH
-
 # pyeth
+
 
 Welcome to **pyeth**, a research-focused GitHub organization dedicated to expanding the capabilities of Ethereum through the integration of Python and machine learning technologies. Our mission is to explore innovative ways to enhance Ethereum's scalability, efficiency, and functionality using advanced computational methods.
 
